@@ -1,3 +1,8 @@
+
+# This script is used to verify the calibration matrix computed by TactiCal.py
+# You have to manually plug in the calibration matrix at the main function to apply the calibration.
+
+
 import numpy as np
 import cv2
 import pyrealsense2 as rs
